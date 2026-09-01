@@ -18,3 +18,9 @@
 2026/08/28 18:27:42 [notice] 34760#28400: signal process started
 2026/08/28 18:29:17 [notice] 21824#21200: signal process started
 2026/08/28 18:30:42 [notice] 4036#35800: signal process started
+2026/08/31 21:39:58 [notice] 18972#20748: signal process started
+2026/08/31 21:39:58 [error] 18972#20748: OpenEvent("Global\ngx_reload_18976") failed (2: The system cannot find the file specified)
+2026/08/31 21:40:52 [notice] 19188#30828: signal process started
+2026/08/31 21:40:52 [error] 19188#30828: OpenEvent("Global\ngx_stop_18976") failed (2: The system cannot find the file specified)
+2026/08/31 21:42:55 [notice] 19008#32228: signal process started
+2026/08/31 21:45:03 [notice] 29132#19592: signal process started
